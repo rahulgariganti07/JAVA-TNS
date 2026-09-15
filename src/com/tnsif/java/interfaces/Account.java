@@ -5,5 +5,4 @@ public interface Account {
 	String name = "parashuram";
 	
 	public void payAmount(double amount);
-	
 }
